@@ -1,0 +1,7 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node or IDE
+node_modules/
+.vscode/
